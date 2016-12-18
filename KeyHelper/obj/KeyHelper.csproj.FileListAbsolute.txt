@@ -1,0 +1,16 @@
+E:\C# program\KeyHelper\KeyHelper\bin\Debug\KeyHelper.exe
+E:\C# program\KeyHelper\KeyHelper\bin\Debug\KeyHelper.pdb
+E:\C# program\KeyHelper\KeyHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\C# program\KeyHelper\KeyHelper\obj\Debug\KeyHelper.Properties.Resources.resources
+E:\C# program\KeyHelper\KeyHelper\obj\Debug\KeyHelper.csproj.GenerateResource.Cache
+E:\C# program\KeyHelper\KeyHelper\obj\Debug\KeyHelper.exe
+E:\C# program\KeyHelper\KeyHelper\obj\Debug\KeyHelper.pdb
+E:\C# program\KeyHelper\KeyHelper\bin\Release\KeyHelper.exe
+E:\C# program\KeyHelper\KeyHelper\bin\Release\KeyHelper.pdb
+E:\C# program\KeyHelper\KeyHelper\obj\Release\ResolveAssemblyReference.cache
+E:\C# program\KeyHelper\KeyHelper\obj\Release\KeyHelper.Properties.Resources.resources
+E:\C# program\KeyHelper\KeyHelper\obj\Release\KeyHelper.csproj.GenerateResource.Cache
+E:\C# program\KeyHelper\KeyHelper\obj\Release\KeyHelper.exe
+E:\C# program\KeyHelper\KeyHelper\obj\Release\KeyHelper.pdb
+E:\C# program\KeyHelper\KeyHelper\obj\Debug\KeyHelper.keyhelper.resources
+E:\C# program\KeyHelper\KeyHelper\obj\Release\KeyHelper.keyhelper.resources
